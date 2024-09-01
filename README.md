@@ -1,4 +1,3 @@
-Overview
 Hostellites is a web-based platform developed to streamline the interaction between students and hostel owners. The website provides a user-friendly interface for students to book rooms, view services, and manage their hostel stay, while enabling hostel owners to manage room availability, bookings, and user information.
 
 Folder Structure and File Description
